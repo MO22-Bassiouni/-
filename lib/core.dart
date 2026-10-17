@@ -1,0 +1,22 @@
+// ملف تجميع: أي شاشة تستورد core.dart وتاخد كل الحاجات المشتركة
+export 'data.dart';
+export 'config.dart';
+export 'models/doctor.dart';
+export 'models/booking.dart';
+export 'models/rating.dart';
+export 'services/repo.dart';
+export 'state/app_state.dart';
+export 'utils/helpers.dart';
+export 'utils/maps.dart';
+export 'utils/photo.dart';
+export 'widgets/shell.dart';
+export 'widgets/box.dart';
+export 'widgets/big_btn.dart';
+export 'widgets/info_row.dart';
+export 'widgets/password_field.dart';
+export 'widgets/user_avatar.dart';
+export 'widgets/doctor_avatar.dart';
+export 'widgets/stars_row.dart';
+export 'widgets/rating_badge.dart';
+export 'widgets/rate_sheet.dart';
+export 'widgets/profile_sheet.dart';
